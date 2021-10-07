@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=ihribernik&show_icons=true&theme=vue" width="395" /> <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ihribernik&layout=compact&theme=vue" width="330" />
+<img src="https://github-readme-stats.vercel.app/api?username=ihribernik&count_private=true&show_icons=true&theme=vue" width="395" /> <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ihribernik&count_private=true&layout=compact&theme=vue" width="330" />
 
 
 
