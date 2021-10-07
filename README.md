@@ -1,4 +1,8 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=ihribernik&show_icons=true&theme=vue" width="395" /> <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ihribernik&layout=compact&theme=vue" width="330" />
+
+
 
 <!--
 **ihribernik/ihribernik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
